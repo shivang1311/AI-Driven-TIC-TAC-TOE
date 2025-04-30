@@ -11,20 +11,12 @@ A modern, responsive, and AI-powered Tic Tac Toe game built with React and TypeS
 ## 📸 Screenshots
 
 ### Dark Mode
-![Dark Mode](https://github.com/shivang1311/AI-Driven-TIC-TAC-TOE/blob/42f9f43946a9c3d7af7cfd979305ecc93b4c698d/lightmode.png)
+![Dark Mode](https://github.com/shivang1311/AI-Driven-TIC-TAC-TOE/blob/bd81325c025b3667e9e88730db2a64a600beed16/darkmode.png)
 *Experience the elegant dark theme with glass-morphism effects*
 
 ### Light Mode
 ![Light Mode](https://github.com/shivang1311/AI-Driven-TIC-TAC-TOE/blob/42f9f43946a9c3d7af7cfd979305ecc93b4c698d/lightmode.png)
 *Clean and bright design for daytime gaming*
-
-### Game in Action
-![Gameplay](https://images.pexels.com/photos/4792733/pexels-photo-4792733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-*Engaging gameplay with smooth animations*
-
-### Mobile View
-![Mobile Experience](https://images.pexels.com/photos/7887816/pexels-photo-7887816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-*Fully responsive design for mobile gaming*
 
 ## ✨ Features
 
