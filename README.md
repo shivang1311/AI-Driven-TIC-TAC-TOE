@@ -83,13 +83,12 @@ npm run build
 ## 🎮 Game Modes
 
 ### 👥 Player vs Player (PVP)
-![PVP Mode](https://images.pexels.com/photos/7887822/pexels-photo-7887822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![PVP Mode](https://github.com/shivang1311/AI-Driven-TIC-TAC-TOE/blob/ee4870848ed6388d0cb9c3af9f6e1af12f1e8e20/pvpmode.png)
 - Classic two-player mode
 - Take turns playing X and O
 - Perfect for playing with friends
 
 ### 🤖 AI Modes
-![AI Mode](https://images.pexels.com/photos/7887830/pexels-photo-7887830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 - **Easy AI**
   - Makes random moves
   - Suitable for beginners
