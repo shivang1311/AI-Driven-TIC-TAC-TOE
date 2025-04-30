@@ -1,4 +1,4 @@
-# 🎮 Modern AI-Powered Tic Tac Toe | Progressive Web Application
+# 🎮 Modern AI-Powered Tic Tac Toe | Progressive Web App
 
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue.svg)](https://www.typescriptlang.org/)
@@ -8,7 +8,23 @@
 
 A modern, responsive, and AI-powered Tic Tac Toe game built with React and TypeScript. Features multiple game modes, smart AI opponents, beautiful animations, and a stunning glass-morphism design.
 
-![Game Preview](https://images.pexels.com/photos/4792733/pexels-photo-4792733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+## 📸 Screenshots
+
+### Dark Mode
+![Dark Mode](https://images.pexels.com/photos/7887800/pexels-photo-7887800.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+*Experience the elegant dark theme with glass-morphism effects*
+
+### Light Mode
+![Light Mode](https://images.pexels.com/photos/7887805/pexels-photo-7887805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+*Clean and bright design for daytime gaming*
+
+### Game in Action
+![Gameplay](https://images.pexels.com/photos/4792733/pexels-photo-4792733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+*Engaging gameplay with smooth animations*
+
+### Mobile View
+![Mobile Experience](https://images.pexels.com/photos/7887816/pexels-photo-7887816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+*Fully responsive design for mobile gaming*
 
 ## ✨ Features
 
@@ -75,11 +91,13 @@ npm run build
 ## 🎮 Game Modes
 
 ### 👥 Player vs Player (PVP)
+![PVP Mode](https://images.pexels.com/photos/7887822/pexels-photo-7887822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 - Classic two-player mode
 - Take turns playing X and O
 - Perfect for playing with friends
 
 ### 🤖 AI Modes
+![AI Mode](https://images.pexels.com/photos/7887830/pexels-photo-7887830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 - **Easy AI**
   - Makes random moves
   - Suitable for beginners
