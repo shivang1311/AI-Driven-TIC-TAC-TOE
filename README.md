@@ -65,12 +65,12 @@ A modern, responsive, and AI-powered Tic Tac Toe game built with React and TypeS
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/tictactoe-ai-pwa.git
+git clone https://github.com/shivang1311/AI-Driven-TIC-TAC-TOE.git
 ```
 
 2. Navigate to project directory
 ```bash
-cd tictactoe-ai-pwa
+cd AI-Driven-TIC-TAC-TOE
 ```
 
 3. Install dependencies
